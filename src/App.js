@@ -209,7 +209,7 @@ function App() {
 
             <UTCDatetime />
             <Link
-              href="https://github.com/shivansh090"
+              href="https://github.com/shivansh090/TheWeatherApp/tree/main"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
