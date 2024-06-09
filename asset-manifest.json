@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TheWeatherApp/static/css/main.e767f7f6.css",
+    "main.js": "/TheWeatherApp/static/js/main.7b91fc5c.js",
+    "static/media/bg.png": "/TheWeatherApp/static/media/bg.e0d46b6d28d5c7baa29c.png",
+    "static/media/splash-icon.svg": "/TheWeatherApp/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/TheWeatherApp/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/TheWeatherApp/index.html",
+    "main.e767f7f6.css.map": "/TheWeatherApp/static/css/main.e767f7f6.css.map",
+    "main.7b91fc5c.js.map": "/TheWeatherApp/static/js/main.7b91fc5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e767f7f6.css",
+    "static/js/main.7b91fc5c.js"
+  ]
+}
